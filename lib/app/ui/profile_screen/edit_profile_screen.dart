@@ -40,7 +40,7 @@ class EditProfileScreen extends StatelessWidget {
                       children: [
                         ClipOval(
                           child: Image.network(
-                            "https://pratikhasar.com/netting/"+Preferences.pref.getString("FirmaLogo").toString(),
+                            "api"+Preferences.pref.getString("FirmaLogo").toString(),
                             width: 100,height: 100,
                           ),
                         ),

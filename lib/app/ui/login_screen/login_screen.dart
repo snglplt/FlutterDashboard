@@ -212,7 +212,7 @@ class LoginScreen extends StatelessWidget {
   Future<bool> login(String kullaniciAdi, String sifre) async {
   final response = await http.get(
       Uri.parse(
-          "https://www.pratikhasar.com/netting/selparDna.php?tur=giris&kadi="+kullaniciAdi+"&sifre="+sifre), // API endpoint'inizi buraya ekleyin
+          "api="+kullaniciAdi+"&sifre="+sifre), // API endpoint'inizi buraya ekleyin
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },

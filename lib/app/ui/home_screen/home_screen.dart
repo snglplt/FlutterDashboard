@@ -45,7 +45,7 @@ class HomeScreen extends StatelessWidget {
                     width: 38,
                     child: ClipOval(
                       child: Image.network(
-                        "https://pratikhasar.com/netting/"+Preferences.pref.getString("FirmaLogo").toString(),
+                        "api"+Preferences.pref.getString("FirmaLogo").toString(),
                       ),
                     ),
                   ),

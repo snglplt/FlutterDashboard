@@ -106,7 +106,7 @@ class _MyFormState extends State<MyForm> {
     if (_formKey.currentState!.validate()) {
       _formKey.currentState!.save();
       // API URL'si
-      String apiUrl = 'https://pratikhasar.com/netting/selparDna.php';
+      String apiUrl = 'api';
       var uri = Uri.parse(apiUrl);
       final bytes = _resim!.readAsBytesSync();
       String base64Image = base64Encode(bytes);

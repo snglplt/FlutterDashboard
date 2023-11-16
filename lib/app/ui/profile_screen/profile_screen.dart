@@ -71,7 +71,7 @@ class ProfileScreen extends StatelessWidget {
                                 width: 56,
                                 child: ClipOval(
                                   child: Image.network(
-                                      "https://pratikhasar.com/netting/"+Preferences.pref.getString("FirmaLogo").toString(),
+                                      "api"+Preferences.pref.getString("FirmaLogo").toString(),
                                     ),
                                   ),
 
