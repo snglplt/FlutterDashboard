@@ -1,0 +1,25 @@
+{
+  "address_list": [
+    {
+      "id": "1",
+      "address": "3517 W. Gray St.",
+      "area": "Utica",
+      "landmark": ", Pennsylvania 57867",
+      "save_as": "home"
+    },
+    {
+      "id": "2",
+      "address": "6391 Elgin St. Celina, Delaware 10299",
+      "area": "New Mexico 31134",
+      "landmark": "",
+      "save_as": "office"
+    },
+    {
+      "id": "3",
+      "address": "3891 Ranchview Dr. Richardson",
+      "area": "California 62639",
+      "landmark": "",
+      "save_as": "office"
+    }
+  ]
+}

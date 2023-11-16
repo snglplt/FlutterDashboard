@@ -1,0 +1,63 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="16" viewBox="0 0 16 16"
+    width="16" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_274_4789)">
+        <path
+            d="M7.99977 14.7778C11.3749 14.7778 14.1109 12.0417 14.1109 8.66666C14.1109 5.29159 11.3749 2.55554 7.99977 2.55554C4.62471 2.55554 1.88867 5.29159 1.88867 8.66666C1.88867 12.0417 4.62471 14.7778 7.99977 14.7778Z"
+            fill="white" />
+        <path style="mix-blend-mode:darken"
+            d="M7.99977 14.7778C11.3749 14.7778 14.1109 12.0417 14.1109 8.66666C14.1109 5.29159 11.3749 2.55554 7.99977 2.55554C4.62471 2.55554 1.88867 5.29159 1.88867 8.66666C1.88867 12.0417 4.62471 14.7778 7.99977 14.7778Z"
+            fill="url(#pattern0)" fill-opacity="0.05" />
+        <path
+            d="M7.99977 14.7778C11.3749 14.7778 14.1109 12.0417 14.1109 8.66666C14.1109 5.29159 11.3749 2.55554 7.99977 2.55554C4.62471 2.55554 1.88867 5.29159 1.88867 8.66666C1.88867 12.0417 4.62471 14.7778 7.99977 14.7778Z"
+            fill="#31D583" />
+        <path
+            d="M7.99977 14.7778C11.3749 14.7778 14.1109 12.0417 14.1109 8.66666C14.1109 5.29159 11.3749 2.55554 7.99977 2.55554C4.62471 2.55554 1.88867 5.29159 1.88867 8.66666C1.88867 12.0417 4.62471 14.7778 7.99977 14.7778Z"
+            stroke="white" stroke-linejoin="round" stroke-width="1.5" />
+        <path style="mix-blend-mode:darken"
+            d="M7.99977 14.7778C11.3749 14.7778 14.1109 12.0417 14.1109 8.66666C14.1109 5.29159 11.3749 2.55554 7.99977 2.55554C4.62471 2.55554 1.88867 5.29159 1.88867 8.66666C1.88867 12.0417 4.62471 14.7778 7.99977 14.7778Z"
+            stroke="url(#pattern1)" stroke-linejoin="round" stroke-opacity="0.05"
+            stroke-width="1.5" />
+        <path
+            d="M7.99977 14.7778C11.3749 14.7778 14.1109 12.0417 14.1109 8.66666C14.1109 5.29159 11.3749 2.55554 7.99977 2.55554C4.62471 2.55554 1.88867 5.29159 1.88867 8.66666C1.88867 12.0417 4.62471 14.7778 7.99977 14.7778Z"
+            stroke="#31D583" stroke-linejoin="round" stroke-width="1.5" />
+        <path d="M7.91983 5.11786L7.91943 8.78746L10.5102 11.3782" stroke="white"
+            stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <path d="M1.3335 2.99998L3.66683 1.33331" stroke="white" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="2" />
+        <path style="mix-blend-mode:darken" d="M1.3335 2.99998L3.66683 1.33331"
+            stroke="url(#pattern2)" stroke-linecap="round" stroke-linejoin="round"
+            stroke-opacity="0.05" stroke-width="2" />
+        <path d="M1.3335 2.99998L3.66683 1.33331" stroke="#31D583" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="2" />
+        <path d="M14.6668 2.99998L12.3335 1.33331" stroke="white" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="2" />
+        <path style="mix-blend-mode:darken" d="M14.6668 2.99998L12.3335 1.33331"
+            stroke="url(#pattern3)" stroke-linecap="round" stroke-linejoin="round"
+            stroke-opacity="0.05" stroke-width="2" />
+        <path d="M14.6668 2.99998L12.3335 1.33331" stroke="#31D583" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="2" />
+    </g>
+    <defs>
+        <pattern height="4.34619" id="pattern0" patternContentUnits="objectBoundingBox"
+            width="4.34618">
+            <use transform="scale(0.067909)" xlink:href="#image0_274_4789" />
+        </pattern>
+        <pattern height="4.34619" id="pattern1" patternContentUnits="objectBoundingBox"
+            width="4.34618">
+            <use transform="scale(0.067909)" xlink:href="#image0_274_4789" />
+        </pattern>
+        <pattern height="31.872" id="pattern2" patternContentUnits="objectBoundingBox"
+            width="22.7657">
+            <use transform="scale(0.355714 0.498)" xlink:href="#image0_274_4789" />
+        </pattern>
+        <pattern height="31.872" id="pattern3" patternContentUnits="objectBoundingBox"
+            width="22.7657">
+            <use transform="scale(0.355714 0.498)" xlink:href="#image0_274_4789" />
+        </pattern>
+        <clipPath id="clip0_274_4789">
+            <rect fill="white" height="16" width="16" />
+        </clipPath>
+        <image height="64" id="image0_274_4789" width="64"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAONJREFUeF7t20EOhEAIRFG4/6F7DvEnYeFzryQIv6pBd2behOu9dPvsbog+k+NLgArQAqmJcw9iAAhSgZKB3IJkkAySQTJ4CiE+gA8oBeg0mH3Ai084P89HhqwEqIA209ICsQdjAeaZIgaAYKxBDMCAYy8fXwAIgiAIcoJpJEYGI4VjB3YrbC9gL2AvkCB43cM5PgZgAAZgQFnNZAhdGykQBEEQBEEQDBmgAm2glM/z+QUYisYUGoldO7kY32IEAzCg6RgIRgjFAsw+AgRBMNYgBmCAT2TCYfoPPz/HCqQCX1eBHzHnv7C7WhBSAAAAAElFTkSuQmCC" />
+    </defs>
+</svg>

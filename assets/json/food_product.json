@@ -1,0 +1,157 @@
+{
+  "product_list" : [
+    {
+      "id": "1",
+      "name": "Fish",
+      "image": "https://images.unsplash.com/photo-1598511726623-d2e9996892f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "product": [
+        {
+          "id": "1",
+          "name": "Katla Kalia",
+          "image": "131.73",
+          "review": "3.9",
+          "total_review": "124",
+          "price": "124"
+        },{
+          "id": "1",
+          "name": "Dahi Katla",
+          "image": "131.73",
+          "review": "3.9",
+          "total_review": "124",
+          "price": "124"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Milk",
+      "image": "https://images.unsplash.com/photo-1472555794301-77353b152fb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1937&q=80",
+      "product": [
+        {
+          "id": "1",
+          "name": "Fresh Lime Soda (Sweet/Salted/Mixed)",
+          "image": "131.73",
+          "review": "3.9",
+          "total_review": "124",
+          "price": "124"
+        },
+        {
+          "id": "2",
+          "name": "Iced Lemon Tea",
+          "image": "110.73",
+          "review": "4.0",
+          "total_review": "150",
+          "price": "110"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Starter",
+      "image": "https://images.unsplash.com/photo-1471943311424-646960669fbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "product": [
+        {
+          "id": "1",
+          "name": "Parmesan Crusted Potatoes",
+          "image": "131.73",
+          "review": "3.9",
+          "total_review": "124",
+          "price": "124"
+        },
+        {
+          "id": "2",
+          "name": "Punjabi Samosa Recipe.",
+          "image": "110.73",
+          "review": "4.0",
+          "total_review": "150",
+          "price": "110"
+        },
+        {
+          "id": "3",
+          "name": "Papdi Chaat (Dahi Papri Chaat)",
+          "image": "105.73",
+          "review": "3.3",
+          "total_review": "120",
+          "price": "50"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Bread",
+      "image": "https://images.unsplash.com/photo-1430163393927-3dab9af7ea38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2QlMjBhbmQlMjBkcmluayUyMGljb25zfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "product": [
+        {
+          "id": "1",
+          "name": "Garlic cheese toast",
+          "image": "131.73",
+          "review": "3.9",
+          "total_review": "124",
+          "price": "124"
+        },
+        {
+          "id": "2",
+          "name": "Bread pakora",
+          "image": "110.73",
+          "review": "4.0",
+          "total_review": "150",
+          "price": "110"
+        },
+        {
+          "id": "3",
+          "name": "Bread dosa",
+          "image": "105.73",
+          "review": "3.3",
+          "total_review": "120",
+          "price": "50"
+        },
+        {
+          "id": "4",
+          "name": "Bread salad",
+          "image": "230.73",
+          "review": "2.9",
+          "total_review": "105",
+          "price": "60"
+        },
+        {
+          "id": "5",
+          "name": "Veggie bread bake",
+          "image": "190.73",
+          "review": "4.9",
+          "total_review": "145",
+          "price": "150"
+        }
+      ]
+    },{
+      "id": "5",
+      "name": "Fruits",
+      "image": "https://images.unsplash.com/photo-1513477967668-2aaf11838bd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "product": [
+        {
+          "id": "1",
+          "name": "APPLE RECIPES",
+          "image": "131.73",
+          "review": "3.9",
+          "total_review": "124",
+          "price": "124"
+        },
+        {
+          "id": "2",
+          "name": "CHERRY RECIPES",
+          "image": "110.73",
+          "review": "4.0",
+          "total_review": "150",
+          "price": "110"
+        },
+        {
+          "id": "3",
+          "name": "FIG RECIPES",
+          "image": "105.73",
+          "review": "3.3",
+          "total_review": "120",
+          "price": "50"
+        }
+      ]
+    }
+  ]
+}

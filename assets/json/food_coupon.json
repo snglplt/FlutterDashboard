@@ -1,0 +1,25 @@
+{
+  "coupon_list": [
+    {
+      "id": "1",
+      "title": "off on your next order.",
+      "code": "SAVE20OFF",
+      "description": "Valid for orders over $30.",
+      "off_value": "30"
+    },
+    {
+      "id": "2",
+      "title": "off on your next order.",
+      "code": "SAVE100FF",
+      "description": "Valid for orders over $10.",
+      "off_value": "10"
+    },
+    {
+      "id": "3",
+      "title": "off on your next order.",
+      "code": "SAVE40OFF",
+      "description": "Valid for orders over $40.",
+      "off_value": "40"
+    }
+  ]
+}

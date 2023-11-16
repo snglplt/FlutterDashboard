@@ -1,0 +1,61 @@
+{
+  "menu_list": [
+    {
+      "id": "1",
+      "title": "Recommended",
+      "menu": [
+        "Pizza",
+        "Vegetarian Sushi"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Italian",
+      "menu": [
+        "Pizza",
+        "Vegetarian Sushi",
+        "Vegetarian Sushi"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Chinese",
+      "menu": [
+        "Pizza",
+        "Vegetarian Sushi",
+        "Pizza",
+        "Vegetarian Sushi"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Indian",
+      "menu": [
+        "Pizza",
+        "Vegetarian Sushi",
+        "Pizza",
+        "Vegetarian Sushi"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Japanese",
+      "menu": [
+        "Pizza",
+        "Vegetarian Sushi",
+        "Pizza",
+        "Vegetarian Sushi"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mediterranean",
+      "menu": [
+        "Pizza",
+        "Vegetarian Sushi",
+        "Pizza",
+        "Vegetarian Sushi"
+      ]
+    }
+  ]
+}

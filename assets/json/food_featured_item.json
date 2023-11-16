@@ -1,0 +1,39 @@
+{
+  "featured_item": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "time": "15 minutes",
+      "review": "4.5",
+      "image": "https://plus.unsplash.com/premium_photo-1676064229110-018a3b3b785c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+    },
+    {
+      "id": "2",
+      "name": "North Beach Restaurant",
+      "time": "10 minutes",
+      "review": "3.5",
+      "image": "https://plus.unsplash.com/premium_photo-1669559809547-6e4c4fe41371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Six Seven Restaurant",
+      "time": "40 minutes",
+      "review": "5.0",
+      "image": "https://images.unsplash.com/photo-1574172367915-0059de1452f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": "4",
+      "name": "Bean Around the World Coffees",
+      "time": "20 minutes",
+      "review": "4.2",
+      "image": "https://images.unsplash.com/photo-1552526881-721ce8509abb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+    },
+    {
+      "id": "5",
+      "name": "Gemini750 Restaurant",
+      "time": "40 minutes",
+      "review": "3.5",
+      "image": "https://images.unsplash.com/photo-1424591185129-8a73a1111adf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+    }
+  ]
+}

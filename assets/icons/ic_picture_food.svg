@@ -1,0 +1,62 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="16" viewBox="0 0 17 16"
+    width="17" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M13.333 2H3.33301C2.78072 2 2.33301 2.44772 2.33301 3V13C2.33301 13.5523 2.78072 14 3.33301 14H13.333C13.8853 14 14.333 13.5523 14.333 13V3C14.333 2.44772 13.8853 2 13.333 2Z"
+        stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <path style="mix-blend-mode:darken"
+        d="M13.333 2H3.33301C2.78072 2 2.33301 2.44772 2.33301 3V13C2.33301 13.5523 2.78072 14 3.33301 14H13.333C13.8853 14 14.333 13.5523 14.333 13V3C14.333 2.44772 13.8853 2 13.333 2Z"
+        stroke="url(#pattern0)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.05"
+        stroke-width="1.5" />
+    <path
+        d="M13.333 2H3.33301C2.78072 2 2.33301 2.44772 2.33301 3V13C2.33301 13.5523 2.78072 14 3.33301 14H13.333C13.8853 14 14.333 13.5523 14.333 13V3C14.333 2.44772 13.8853 2 13.333 2Z"
+        stroke="#31D583" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <path
+        d="M6.33317 7.66668C7.25364 7.66668 7.99984 6.92048 7.99984 6.00001C7.99984 5.07954 7.25364 4.33334 6.33317 4.33334C5.4127 4.33334 4.6665 5.07954 4.6665 6.00001C4.6665 6.92048 5.4127 7.66668 6.33317 7.66668Z"
+        fill="white" />
+    <path style="mix-blend-mode:darken"
+        d="M6.33317 7.66668C7.25364 7.66668 7.99984 6.92048 7.99984 6.00001C7.99984 5.07954 7.25364 4.33334 6.33317 4.33334C5.4127 4.33334 4.6665 5.07954 4.6665 6.00001C4.6665 6.92048 5.4127 7.66668 6.33317 7.66668Z"
+        fill="url(#pattern1)" fill-opacity="0.05" />
+    <path
+        d="M6.33317 7.66668C7.25364 7.66668 7.99984 6.92048 7.99984 6.00001C7.99984 5.07954 7.25364 4.33334 6.33317 4.33334C5.4127 4.33334 4.6665 5.07954 4.6665 6.00001C4.6665 6.92048 5.4127 7.66668 6.33317 7.66668Z"
+        fill="#31D583" />
+    <path
+        d="M6.33317 7.66668C7.25364 7.66668 7.99984 6.92048 7.99984 6.00001C7.99984 5.07954 7.25364 4.33334 6.33317 4.33334C5.4127 4.33334 4.6665 5.07954 4.6665 6.00001C4.6665 6.92048 5.4127 7.66668 6.33317 7.66668Z"
+        stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <path style="mix-blend-mode:darken"
+        d="M6.33317 7.66668C7.25364 7.66668 7.99984 6.92048 7.99984 6.00001C7.99984 5.07954 7.25364 4.33334 6.33317 4.33334C5.4127 4.33334 4.6665 5.07954 4.6665 6.00001C4.6665 6.92048 5.4127 7.66668 6.33317 7.66668Z"
+        stroke="url(#pattern2)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.05"
+        stroke-width="1.5" />
+    <path
+        d="M6.33317 7.66668C7.25364 7.66668 7.99984 6.92048 7.99984 6.00001C7.99984 5.07954 7.25364 4.33334 6.33317 4.33334C5.4127 4.33334 4.6665 5.07954 4.6665 6.00001C4.6665 6.92048 5.4127 7.66668 6.33317 7.66668Z"
+        stroke="#31D583" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <path
+        d="M9.59654 8.73981C9.86864 8.37564 10.4174 8.38461 10.6775 8.75751L13.6024 12.952C13.9106 13.394 13.5943 14 13.0555 14H5.6665L9.59654 8.73981Z"
+        stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <path style="mix-blend-mode:darken"
+        d="M9.59654 8.73981C9.86864 8.37564 10.4174 8.38461 10.6775 8.75751L13.6024 12.952C13.9106 13.394 13.5943 14 13.0555 14H5.6665L9.59654 8.73981Z"
+        stroke="url(#pattern3)" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.05"
+        stroke-width="1.5" />
+    <path
+        d="M9.59654 8.73981C9.86864 8.37564 10.4174 8.38461 10.6775 8.75751L13.6024 12.952C13.9106 13.394 13.5943 14 13.0555 14H5.6665L9.59654 8.73981Z"
+        stroke="#31D583" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    <defs>
+        <pattern height="4.42667" id="pattern0" patternContentUnits="objectBoundingBox"
+            width="4.42667">
+            <use transform="scale(0.0691667)" xlink:href="#image0_70_4164" />
+        </pattern>
+        <pattern height="15.936" id="pattern1" patternContentUnits="objectBoundingBox"
+            width="15.936">
+            <use transform="scale(0.249)" xlink:href="#image0_70_4164" />
+        </pattern>
+        <pattern height="15.936" id="pattern2" patternContentUnits="objectBoundingBox"
+            width="15.936">
+            <use transform="scale(0.249)" xlink:href="#image0_70_4164" />
+        </pattern>
+        <pattern height="9.60948" id="pattern3" patternContentUnits="objectBoundingBox"
+            width="6.59313">
+            <use transform="scale(0.103018 0.150148)" xlink:href="#image0_70_4164" />
+        </pattern>
+        <image height="64" id="image0_70_4164" width="64"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAONJREFUeF7t20EOhEAIRFG4/6F7DvEnYeFzryQIv6pBd2behOu9dPvsbog+k+NLgArQAqmJcw9iAAhSgZKB3IJkkAySQTJ4CiE+gA8oBeg0mH3Ai084P89HhqwEqIA209ICsQdjAeaZIgaAYKxBDMCAYy8fXwAIgiAIcoJpJEYGI4VjB3YrbC9gL2AvkCB43cM5PgZgAAZgQFnNZAhdGykQBEEQBEEQDBmgAm2glM/z+QUYisYUGoldO7kY32IEAzCg6RgIRgjFAsw+AgRBMNYgBmCAT2TCYfoPPz/HCqQCX1eBHzHnv7C7WhBSAAAAAElFTkSuQmCC" />
+    </defs>
+</svg>

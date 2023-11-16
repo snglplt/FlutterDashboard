@@ -1,0 +1,36 @@
+{
+  "add_on_quantity": [
+    {
+      "id": "1",
+      "name": "250 gms",
+      "price": "120"
+    },
+    {
+      "id": "2",
+      "name": "500 gms",
+      "price": "160"
+    },
+    {
+      "id": "3",
+      "name": "1 kg",
+      "price": "200"
+    }
+  ],
+  "add_on_choice_of_preparations": [
+    {
+      "id": "1",
+      "name": "Regular",
+      "price": "20"
+    },
+    {
+      "id": "2",
+      "name": "Jain",
+      "price": "60"
+    },
+    {
+      "id": "3",
+      "name": "Swaminiarayan",
+      "price": "120"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "product_list": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza",
+      "image": "131.73",
+      "review": "3.9",
+      "total_review": "124",
+      "price": "124"
+    },
+    {
+      "id": "2",
+      "name": "Creamy Garlic",
+      "image": "110.73",
+      "review": "4.0",
+      "total_review": "150",
+      "price": "110"
+    }
+  ]
+}

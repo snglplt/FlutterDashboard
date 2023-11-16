@@ -1,0 +1,138 @@
+{
+  "meals_of_the_day": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "time": "15 minutes",
+      "review": "4.5",
+      "image": "https://plus.unsplash.com/premium_photo-1676064229110-018a3b3b785c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+    },
+    {
+      "id": "2",
+      "name": "North Beach Restaurant",
+      "time": "10 minutes",
+      "review": "3.5",
+      "image": "https://plus.unsplash.com/premium_photo-1669559809547-6e4c4fe41371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Six Seven Restaurant",
+      "time": "40 minutes",
+      "review": "5.0",
+      "image": "https://images.unsplash.com/photo-1574172367915-0059de1452f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": "4",
+      "name": "Bean Around the World Coffees",
+      "time": "20 minutes",
+      "review": "4.2",
+      "image": "https://images.unsplash.com/photo-1552526881-721ce8509abb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+    },
+    {
+      "id": "5",
+      "name": "Gemini750 Restaurant",
+      "time": "40 minutes",
+      "review": "3.5",
+      "image": "https://images.unsplash.com/photo-1424591185129-8a73a1111adf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+    }
+  ],
+  "popular_for_breakfast": [
+    {
+      "id": "1",
+      "name": "Chicken Tikka Masala",
+      "address": "6391 Elgin St. Celina, Delaware 10299",
+      "price": "12.00",
+      "review": "3.5",
+      "time": "10 minutes",
+      "image": "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Tikka Masala",
+      "address": "4517 Washington Ave. Manchester, Kentucky 39495",
+      "price": "10.00",
+      "review": "4.5",
+      "time": "20 minutes",
+      "image": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Sandwich",
+      "address": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
+      "price": "20.00",
+      "review": "5.0",
+      "time": "25 minutes",
+      "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1547&q=80"
+    },
+    {
+      "id": "4",
+      "name": "Shrimp",
+      "address": "3517 W. Gray St. Utica, Pennsylvania 57867",
+      "price": "30.00",
+      "review": "4.5",
+      "time": "60 minutes",
+      "image": "https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1963&q=80"
+    },
+    {
+      "id": "5",
+      "name": "Rice",
+      "address": "8502 Preston Rd. Inglewood, Maine 98380",
+      "price": "24.00",
+      "review": "3.5",
+      "time": "40 minutes",
+      "image": "https://images.unsplash.com/photo-1542276867-c7f5032e1835?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1984&q=80"
+    }
+  ],
+  "restaurant_near_by": [
+    {
+      "id": "1",
+      "name": "Chicken Tikka Masala",
+      "address": "6391 Elgin St. Celina, Delaware 10299",
+      "price": "12.00",
+      "review": "3.5",
+      "time": "10 minutes",
+      "discount": "60%",
+      "image": "https://images.unsplash.com/photo-1692651763160-7da961e52a07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2068&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Tikka Masala",
+      "address": "4517 Washington Ave. Manchester, Kentucky 39495",
+      "price": "10.00",
+      "review": "4.5",
+      "time": "20 minutes",
+      "discount": "40%",
+      "image": "https://images.unsplash.com/photo-1519155031214-e8d583928bf2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Sandwich",
+      "address": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
+      "price": "20.00",
+      "review": "5.0",
+      "time": "25 minutes",
+      "discount": "",
+      "image": "https://images.unsplash.com/photo-1684165936939-ff5f1c9fdd8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1923&q=80"
+    },
+    {
+      "id": "4",
+      "name": "Shrimp",
+      "address": "3517 W. Gray St. Utica, Pennsylvania 57867",
+      "price": "30.00",
+      "review": "4.5",
+      "time": "60 minutes",
+      "discount": "20%",
+      "image": "https://images.unsplash.com/photo-1656806325608-75b59f8e3e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"
+    },
+    {
+      "id": "5",
+      "name": "Rice",
+      "address": "8502 Preston Rd. Inglewood, Maine 98380",
+      "price": "24.00",
+      "review": "3.5",
+      "time": "40 minutes",
+      "discount": "10%",
+      "image": "https://images.unsplash.com/photo-1552611052-d59a0d9741bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+    }
+  ]
+}
